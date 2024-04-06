@@ -1,7 +1,7 @@
 # Python Console Application | Mathematical Calculations
 The project involved converting a Java console application that handles mathematical calculations to a Python program.
 
-A Java file containing Java code was supplied which needed to be converted into Python. The program also needed to be updated to include a fourth menu option that would allow the user to exit the program.
+A Java file containing Java code was supplied which needed to be converted into Python. The program also needed to be updated to include a forth menu option that would allow the user to exit the program.
 
 The project was completed within 1 week for 1 assessment whilst completing the Programming I course at Open Polytechnic NZ as part of the Web Development and Design diploma. The application was built with Python code that is well organised and readable with comments. The application contains a main menu that gives users access to program functionality to calculate the area of a square or circle, display palindromes up to 1,000 or exit the program. The main menu displays after every task completed by the user until the user selects to exit the program. Also, typing errors within the inital Java code provided for the project was corrected and updated for the Python developed program. Further enhancements included error handling for when a user enters an invalid number or character to access menu options and updating the message displayed to the user. 
 
